@@ -1,0 +1,27 @@
+{
+  "name": "pagination_tutorial",
+  "version": "1.0.0",
+  "description": "This is an application demonstrating how to use AngularUI Bootstrap Pagination using MongoDB, ExpressJS, AngularJS, and NodeJS.",
+  "main": "server.js",
+  "dependencies": {
+    "angular-ui-bootstrap": "^2.5.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.8.5",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gugui3z24/MEAN-Stack-Pagination.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gugui3z24/MEAN-Stack-Pagination/issues"
+  },
+  "homepage": "https://github.com/gugui3z24/MEAN-Stack-Pagination#readme"
+}

@@ -2,12 +2,9 @@ var express = require('express'); // ExperssJS Framework
 var app = express(); // Invoke express to variable for use in application
 var morgan = require('morgan'); // Import Morgan Package
 var mongoose = require('mongoose'); // HTTP request logger middleware for Node.js
-var bodyParser = require('body-parser');
 var path = require('path'); // Import path module
 
 app.use(morgan('dev')); // Morgan Middleware
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/public'));
 app.use('/scripts', express.static(__dirname + '/node_modules/'));
 
