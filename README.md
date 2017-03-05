@@ -2,7 +2,7 @@
 
 This is an application demonstrating how to use AngularUI Bootstrap Pagination using MongoDB, ExpressJS, AngularJS, and NodeJS.
 
-A YouTube tutorial video illustrating how to do this can be found [here](https://www.youtube.com/playlist?list=PL3vQyqzqjZ637sWpKvniMCxdqZhnMJC1d).
+A YouTube tutorial video illustrating how to do this can be found [here](https://www.youtube.com/watch?v=WO3n1DeBgJE&feature=youtu.be).
 
 ## Requirements
 
